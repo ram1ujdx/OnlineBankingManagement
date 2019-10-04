@@ -7,6 +7,4 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Welcome from sanjeeth</h1>
-</body>
-</html>
+<h1>Welcome from manisha</h1>
