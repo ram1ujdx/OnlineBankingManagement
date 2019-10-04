@@ -6,7 +6,7 @@
 =======
 <<<<<<< HEAD
 <h2>Hello</h2>
-hi from  monisha....
+hi from  monisha...
 =======
 <<<<<<< HEAD
 <h2>Hello World!</h2>
