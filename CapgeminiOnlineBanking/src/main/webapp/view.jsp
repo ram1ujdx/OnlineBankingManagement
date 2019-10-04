@@ -7,5 +7,5 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Welcome from manishaa</h1>
+<h1>Welcome from manisha</h1>
 </body>
