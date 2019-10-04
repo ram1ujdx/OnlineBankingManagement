@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 <h1>Welcome from monisha</h1>
+=======
+<h1>Welcome from sanjeet</h1>
+>>>>>>> branch 'master' of https://github.com/ram1ujdx/OnlineBankingManagement.git
 </body>
 </html>
