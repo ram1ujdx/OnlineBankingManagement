@@ -1,6 +1,10 @@
 <html>
 <body>
 <<<<<<< HEAD
+<h2>Hello Ashif Khan!</h2>
+<p>search</p>
+=======
+<<<<<<< HEAD
 <h2>Hello</h2>
 hi from  monisha....
 =======
@@ -16,6 +20,7 @@ sdfsdf
 =======
 <h2>Hello monisha</h2>
 <p>autocorrect</p>
+>>>>>>> branch 'master' of https://github.com/ram1ujdx/OnlineBankingManagement.git
 >>>>>>> branch 'master' of https://github.com/ram1ujdx/OnlineBankingManagement.git
 >>>>>>> branch 'master' of https://github.com/ram1ujdx/OnlineBankingManagement.git
 </body>
